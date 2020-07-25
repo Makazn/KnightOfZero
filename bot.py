@@ -54,4 +54,4 @@ async def pic(ctx):
     await ctx.send(response)
 
 
-bot.run("NzM0NDY2MjgzNzg1MTU4NzM2.XxSHBw.EV0cpPXT_rk41mBzY9B868A0Hj0")
+bot.run('DISCORD_TOKEN')
